@@ -78,6 +78,12 @@ section h3 {
   margin-left: 20px; /* Indent the list */
   padding-left: 20px; /* Add padding for better spacing */
   list-style-type: disc; /* Use a disc for the bullet points */
+  font-size: 14px; /* Adjust font size for better readability */
+  color: #555; /* Subtle color for participant names */
+}
+
+.activity-card ul li {
+  margin-bottom: 5px; /* Add spacing between list items */
 }
 
 .form-group {
