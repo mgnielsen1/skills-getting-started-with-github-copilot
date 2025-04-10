@@ -74,6 +74,12 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card ul {
+  margin-left: 20px; /* Indent the list */
+  padding-left: 20px; /* Add padding for better spacing */
+  list-style-type: disc; /* Use a disc for the bullet points */
+}
+
 .form-group {
   margin-bottom: 15px;
 }
